@@ -1,5 +1,5 @@
 # Adventura 4IT101
-
+Kód vychází z předaného vzoru cvičícím.
 ## "Cesta k titulu MemeLorda"
 
 Jednoduchá hra s textovím rozhraním a prvky otevírání a zobrazování obrázků.
