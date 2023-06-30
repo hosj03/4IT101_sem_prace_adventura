@@ -1,4 +1,4 @@
-# Adventura 4IT101
+# Adventura 4IT101 (Programování v Javě)
 Kód vychází z předaného vzoru cvičícím.
 ## "Cesta k titulu MemeLorda"
 
